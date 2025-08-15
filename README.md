@@ -99,4 +99,17 @@ Random Forest	85.75%
 KNN	82.43%
 SVM	84.86%
 Gradient Boosting	86.37%
+📜 License
 
+This project is licensed under the MIT License – you are free to use, modify, and distribute it with attribution.
+
+🤝 Contributing
+
+Contributions are welcome!
+If you'd like to improve the model or add new features:
+
+Fork the repo
+
+Create a feature branch
+
+Submit a pull request
